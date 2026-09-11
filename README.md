@@ -67,7 +67,8 @@ ANAYLYSIS STEPS
 
 14. Generate a 2×2 summary dashboard.
 
-Output
+OUTPUT
+
 report.html: Interactive data profiling report.
 
 Multiple matplotlib / seaborn plots displayed inline.
